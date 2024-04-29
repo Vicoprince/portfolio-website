@@ -12,7 +12,7 @@ const Hero = () => (
         Olu-Ajimati Victor
       </SectionTitle>
       <SectionText>
-        I am a software developer with over 2 years of experience in an educational background. I am very diligent and passionate about developing my career in software development who loves learning.
+        I am a software developer with over 3 years of experience in an educational background. I am very diligent and passionate about developing my career in software development who loves learning.
       </SectionText>
       <Button onClick={() => window.location = '#tech'}>Learn More</Button>
     </LeftSection>

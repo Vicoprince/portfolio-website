@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        A creative and result-oriented Web Developer with over 2 years of
+        A creative and result-oriented Web Developer with over 3 years of
         cognate experience spanning across IT Maintenance, Software programming,
         Web Development using CMS and Office 365 Management including productive
         use for organizations in industries such as Media Institutions, Academic
