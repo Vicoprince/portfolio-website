@@ -12,7 +12,7 @@ const Hero = () => (
         Olu-Ajimati Victor
       </SectionTitle>
       <SectionText>
-        I am a software developer with over 3 years of experience in an educational background. I am very diligent and passionate about developing my career in software development who loves learning.
+        With nearly five years of hands-on experience in software development, I specialize in designing, building, and optimizing scalable, user-focused solutions. My expertise spans the full development lifecycle, combining a strong foundation in both frontend and backend technologies with a commitment to delivering high-quality, innovative software that drives impactful results.
       </SectionText>
       <Button onClick={() => window.location = '#tech'}>Learn More</Button>
     </LeftSection>
